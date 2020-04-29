@@ -1,4 +1,4 @@
-# CAHPTER 1
+# CHPTER 1
 
 Barret:
 Get down here, merc.
