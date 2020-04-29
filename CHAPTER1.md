@@ -1,4 +1,4 @@
-# CHPTER 1
+# CHAPTER 1
 
 Barret:
 Get down here, merc.
