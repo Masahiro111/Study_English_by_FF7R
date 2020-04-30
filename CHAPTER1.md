@@ -82,4 +82,39 @@ Different reactor, different layout.
 Depends when it was built.
 Never seen one like this, but I'll manage.
 
+Security Officer:
+Who's there!?
+Door!
 
+Barret:
+Wait!
+
+Security Officer:
+It's over!
+
+Cloud:
+That's my line.
+
+Jessie:
+It's a good thing I know someone who can get us the passcodes.
+Pity no one else at command will talk to us,
+but what can you do?
+And we're good!
+
+Biggs:
+Careful in there.
+
+Jessie:
+So...you know Tifa, right?
+It's not really my business, but are you guys close?
+
+Tifa:
+Cloud!
+Are you ignoring me!?
+
+
+Security Officer:
+Jessie:
+Cloud:
+Barret:
+Biggs:
