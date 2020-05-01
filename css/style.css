@@ -1,0 +1,11 @@
+body {
+    background: #f6f6f6;
+}
+
+div.serif {
+    font-size: 1.8rem;
+}
+
+div.translation .btn, div.explanation .btn, div.vocabulary .btn {
+    font-size: .9rem;
+}
