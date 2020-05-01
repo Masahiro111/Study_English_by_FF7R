@@ -6,6 +6,8 @@ div.serif {
     font-size: 1.8rem;
 }
 
-div.translation .btn, div.explanation .btn, div.vocabulary .btn {
+div.translation p, div.explanation p, div.vocabulary p  {
     font-size: .9rem;
+    color: #555;
+
 }
