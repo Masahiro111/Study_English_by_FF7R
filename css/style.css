@@ -9,5 +9,6 @@ div.serif {
 div.translation p, div.explanation p, div.vocabulary p  {
     font-size: .9rem;
     color: #555;
+    margin-bottom: .5rem;
 
 }

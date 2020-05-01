@@ -1,0 +1,44 @@
+[
+    {
+        "character": "Barret",
+        "comment": "Get down here, merc.",
+        "translation": "ここに降りてこい。",
+        "explanation": "",
+        "word": "Get down ＝ 降りる"
+    },
+    {
+        "character": "Security Officer",
+        "comment": "Halt!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Security Officer",
+        "comment": "Who goes there!?",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "You're up.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Security Officer",
+        "comment": "Who in the hell!?",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Security Officer",
+        "comment": "Hands where I can see 'em!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    }
+]
