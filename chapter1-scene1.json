@@ -40,5 +40,201 @@
         "translation": "",
         "explanation": "",
         "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "Have fun!",
+        "translation": "楽しんでね！",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Security Officer",
+        "comment": "Drop the weapon!",
+        "translation": "武器を置け！",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Biggs",
+        "comment": "You got this!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Wedge",
+        "comment": "Yeah, what he said!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "So what's SOLDIER boy's deal? Is he one of us now? He's got balls, this, uh...Uh...what was his name again?",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Biggs",
+        "comment": "Cloud. Cloud Strrife.",
+        "translation": "クラウド。クラウド・ストライフ。",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "Right.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Biggs",
+        "comment": "And he isn't a SOLDIER anymore. Still, he's a professional --- unlike the rest of us. I'm glad to have him.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "This is a onetime gig. When it's done, we're done.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Wedge",
+        "comment": "C'mon, nobody'd do something this crazy just for money. They may not think you're a true believer, but you know what I think?",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "Not interested.",
+        "translation": "興味ないね。",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "You'd better be worth the money, merc. Every last gil.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Biggs",
+        "comment": "Not so fast. We've got company.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "SOLDIERs may attack on command, but I hear they make good guard dogs too. Bet you've seen a few reactors. So how do we get to the bridge above mako storage?Ain't holding out on me, are you?Stamp scared to bite the hand that fed him? Or is he a loyal little doggy!? Have it your way, mutt. We can do this with you, or we can do this without you.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "Different reactor, different layout. Depends when it was built. Never seen one like this, but I'll manage.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Security Officer",
+        "comment": "Who's there!? Door!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "Wait!",
+        "translation": "待て！",
+        "explanation": "バレットに「待て」と言われると普通ビビります。",
+        "word": "wait = 待つ"
+    },
+    {
+        "character": "Security Officer",
+        "comment": "It's over!",
+        "translation": "終わりだ！",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "That's my line.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "It's a good thing I know someone who can get us the passcodes. Pity no one else at command will talk to us, but what can you do? And we're good!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Biggs",
+        "comment": "Careful in there.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "So...you know Tifa, right? It's not really my business, but are you guys close?",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Tifa",
+        "comment": "Cloud! Are you ignoring me!?",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "",
+        "comment": "",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "",
+        "comment": "",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "",
+        "comment": "",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "",
+        "comment": "",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "",
+        "comment": "",
+        "translation": "",
+        "explanation": "",
+        "word": ""
     }
 ]
