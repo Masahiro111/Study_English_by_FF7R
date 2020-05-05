@@ -252,8 +252,127 @@
         "word": ""
     },
     {
-        "character": "",
-        "comment": "",
+        "character": "Barret",
+        "comment": "Mako is the lifeblood of our world.",
+        "translation": "魔晄は、私たちの世界の血だ。",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "The planet bleeds green like you and me bleed red.",
+        "translation": "お前や俺が赤い血を流すように、星は緑の血を流す。",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "The hell you think's gonna happen when it's all gone, huh!? Answer me!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "You gonna stand there and pretend you can't hear the planet crying out in pain?",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "I know you can!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "You really hear that?",
+        "translation": "あんたにはそれが聞こえるのか？",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "Damn straight I do!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "Get help.",
+        "translation": "助けてもらえ。",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "Say that again!",
+        "translation": "もっかい言ってみろ！",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "I'd worry less about the planet and more about the next five seconds.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "Save the screaming for later.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "Our lives are on the line now.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "You listening, merc? One false move...",
+        "translation": "聞いているか？ひとつでも違った動きをしたら…",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Barret",
+        "comment": "And that happens!",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "Well, so much for having Cloud do all the fighting.",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "There are some places a sword just can't reach...",
+        "translation": "",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Jessie",
+        "comment": "Just...bear with him for me, would you?",
+        "translation": "私のために我慢してくれる？",
+        "explanation": "",
+        "word": ""
+    },
+    {
+        "character": "Cloud",
+        "comment": "Should've asked for more money.",
         "translation": "",
         "explanation": "",
         "word": ""
